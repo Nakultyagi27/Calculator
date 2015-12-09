@@ -1,0 +1,82 @@
+.main
+{
+	height: 300px;
+	width: 300px;
+	border: 2px solid black;
+	margin-top: 50px;
+	margin-left: 300px;
+	border-radius: 25px;
+}
+.join
+{
+height: 30px;
+margin-left: 200px;
+margin-top: 30px;	
+}
+button
+{
+	color: green;
+}
+
+.enter1,.enter2,.result
+{
+	margin-top: 5px;
+		margin-left: 70px;
+}
+
+
+.no1,.no2,.no3
+{
+	border-radius: 25px;
+	margin-left: 40px;
+}
+
+
+.add
+{
+	margin-left: 40px;
+}
+.no4,.no5,.no6,.no7,.no8,.no9,.rescalculate,.no0,.clear
+{
+	margin-top: 20px;
+	border-radius: 25px;
+	margin-left: 40px;
+}
+.numbers
+{
+	padding-top:40px; 
+}
+
+.sub
+{
+	margin-left: 20px;
+}
+.no7
+{
+	margin-top: 20px;
+	border-radius: 25px;
+	margin-left: 40px;
+}
+
+.div
+{
+	margin-left: 35px;
+}
+
+.mul
+{
+	margin-left: 10px;
+}
+
+.result
+{
+	margin-left: 210px;
+	color: green;
+
+
+}
+.calculation
+{
+	border-bottom: 1px solid black;
+	height: 50px;
+}
